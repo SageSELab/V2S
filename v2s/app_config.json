@@ -89,8 +89,13 @@
     "app_apks": {
         "any_do": "v2s/app_apks/anydo.apk",
         "acv": "v2s/app_apks/acv.apk",
-        "time_tracker": "v2s/app_apks/time_tracker.apk",
-        "pandora": "v2s/app_apks/pandora.apk"
+        "pandora": "v2s/app_apks/pandora.apk",
+        "time_tracker": "v2s/app_apks/com.markuspage.android.atimetracker-aligned-debugSigned.apk",
+        "antenna_pod": "v2s/app_apks/de.danoeh.antennapod.apk-aligned-debugSigned.apk",
+        "android_token": "v2s/app_apks/uk.co.bitethebullet.android.token-aligned-debugSigned.apk",
+        "droid_weight": "v2s/app_apks/de.delusions.measure-aligned-debugSigned.apk",
+        "gnu_cash": "v2s/app_apks/org.gnucash.android-aligned-debugSigned.apk",
+        "tracker": "v2s/app_apks/me.anon.grow-mutant-2513.apk"
     },
 
     "vid_names":{
