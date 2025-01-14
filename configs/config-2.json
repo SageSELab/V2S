@@ -1,0 +1,317 @@
+{
+  "scenarios": [
+    {
+      "video_path": "videos/variable-trimmed/APOD-CC1-01.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "antenna_pod"
+    },
+    {
+      "video_path": "videos/variable-trimmed/APOD-CC3-01.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "antenna_pod"
+    },
+    {
+      "video_path": "videos/variable-trimmed/APOD-CC5-07.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "antenna_pod"
+    },
+    {
+      "video_path": "videos/variable-trimmed/APOD-CC7-07.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "antenna_pod"
+    },
+    {
+      "video_path": "videos/variable-trimmed/APOD-CC9-05.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "antenna_pod"
+    },
+    {
+      "video_path": "videos/variable-trimmed/DROID-CC1-06.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "droid_weight"
+    },
+    {
+      "video_path": "videos/variable-trimmed/DROID-CC2-07.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "droid_weight"
+    },
+    {
+      "video_path": "videos/variable-trimmed/DROID-CC4-07.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "droid_weight"
+    },
+    {
+      "video_path": "videos/variable-trimmed/DROID-CC6-07.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "droid_weight"
+    },
+    {
+      "video_path": "videos/variable-trimmed/DROID-CC8-09.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "droid_weight"
+    },
+    {
+      "video_path": "videos/variable-trimmed/GNU-CC1-04.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "gnu_cash"
+    },
+    {
+      "video_path": "videos/variable-trimmed/GNU-CC3-04.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "gnu_cash"
+    },
+    {
+      "video_path": "videos/variable-trimmed/GNU-CC5-03.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "gnu_cash"
+    },
+    {
+      "video_path": "videos/variable-trimmed/GNU-CC7-01.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "gnu_cash"
+    },
+    {
+      "video_path": "videos/variable-trimmed/GNU-CC9-06.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "gnu_cash"
+    },
+    {
+      "video_path": "videos/variable-trimmed/GROW-CC1-05.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "tracker"
+    },
+    {
+      "video_path": "videos/variable-trimmed/GROW-CC3-05.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "tracker"
+    },
+    {
+      "video_path": "videos/variable-trimmed/GROW-CC5-04.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "tracker"
+    },
+    {
+      "video_path": "videos/variable-trimmed/GROW-CC7-04.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "tracker"
+    },
+    {
+      "video_path": "videos/variable-trimmed/GROW-CC9-07.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "tracker"
+    },
+    {
+      "video_path": "videos/variable-trimmed/GROW-RC-14.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "tracker"
+    },
+    {
+      "video_path": "videos/variable-trimmed/TIME-CC2-11.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "time_tracker"
+    },
+    {
+      "video_path": "videos/variable-trimmed/TIME-CC4-11.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "time_tracker"
+    },
+    {
+      "video_path": "videos/variable-trimmed/TIME-CC6-11.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "time_tracker"
+    },
+    {
+      "video_path": "videos/variable-trimmed/TIME-CC8-11.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "time_tracker"
+    },
+    {
+      "video_path": "videos/variable-trimmed/TIME-RC-11.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "time_tracker"
+    },
+    {
+      "video_path": "videos/variable-trimmed/TOK-CC2-11.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "android_token"
+    },
+    {
+      "video_path": "videos/variable-trimmed/TOK-CC4-11.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "android_token"
+    },
+    {
+      "video_path": "videos/variable-trimmed/TOK-CC6-11.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "android_token"
+    },
+    {
+      "video_path": "videos/variable-trimmed/TOK-CC8-11.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "android_token"
+    },
+    {
+      "video_path": "videos/variable-trimmed/TOK-RB-11.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "False",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "android_token"
+    }
+  ],
+  "packages": {
+    "adb_path": "/mnt/c/Users/Isaac/AppData/Local/Android/Sdk/platform-tools/adb.exe"
+  }
+}

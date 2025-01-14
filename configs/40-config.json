@@ -1,0 +1,17 @@
+{
+  "scenarios": [
+    {
+      "video_path": "videos/variable-trimmed/DROID-CC3-06.mp4",
+      "device_model": "Nexus_5",
+      "arch": "x86",
+      "emulator": "True",
+      "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+      "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+      "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+      "app_name": "droid_weight"
+    }
+  ],
+  "packages": {
+    "adb_path": "/mnt/c/Users/Isaac/AppData/Local/Android/Sdk/platform-tools/adb.exe"
+  }
+}
